@@ -9,9 +9,7 @@
 ## Modules
 
 - Basics:
-  
-  [![Open in GitHub](https://img.shields.io/badge/Open%20in%20GitHub-Click%20Here-green?style=for-the-badge)](https://github.com/likhith1409/IIIT_HYD_AIML_LABS/tree/main/Basics)
-   
+     
   - Basics of Linear Algebra
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Basics/Basics_of_Linear_Algebra.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -26,8 +24,6 @@
     </a>
     
 - Module 1:
-
-  [![Open in GitHub](https://img.shields.io/badge/Open%20in%20GitHub-Click%20Here-green?style=for-the-badge)](https://github.com/likhith1409/IIIT_HYD_AIML_LABS/tree/main/Module_1)
   
   - Lab-1: Extracting features from data
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_1/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb">
