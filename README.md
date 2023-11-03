@@ -57,10 +57,14 @@
 href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_2/AIML_Module_2_Lab_3_Manifold_Learning_Methods.ipynb#scrollTo=9S2t7qh0MXsG">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+  - Lab-4: t-Distributed Stochastic Neighbor Embedding (t-SNE)
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_2/AIML_Module_2_Lab_4_t_Distributed_Stochastic_Neighbor_Embedding_(t_SNE).ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
 
 
 
-<p align="center">Enjoy your learning journey and happy coding!</p>
+
