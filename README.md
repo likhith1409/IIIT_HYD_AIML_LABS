@@ -61,6 +61,10 @@ href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/bl
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_2/AIML_Module_2_Lab_4_t_Distributed_Stochastic_Neighbor_Embedding_(t_SNE).ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+  - Project: Project Module_2
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_2/AIML_Project_Module_2.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
