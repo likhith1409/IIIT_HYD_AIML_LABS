@@ -66,6 +66,12 @@ href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/bl
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 
+- Module 3:
+  
+  - Lab-1: Understanding Distance metrics and Introduction to KNN
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_3/AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
