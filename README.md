@@ -76,6 +76,10 @@ href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/bl
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_3/AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb#scrollTo=7lNmnA0_AhlE">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+  - Project: Project Module_3
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_3/AIML_Project_Module_3.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
