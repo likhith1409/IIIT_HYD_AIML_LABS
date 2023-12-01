@@ -84,6 +84,12 @@ href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/bl
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_3/AIML_Project_Module_3.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+- Module 4:
+  
+  - Lab-1: Perceptron
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_4/AIML_Module_4_Lab_1_Perceptron.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
