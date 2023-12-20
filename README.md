@@ -102,7 +102,12 @@ href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/bl
     <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_4/AIML_Project_Module_4.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
-
+- Module 5:
+  
+  - Lab-1: Linear Regression, MSE and Polynomial Regression
+    <a href="https://colab.research.google.com/github/likhith1409/IIIT_HYD_AIML_LABS/blob/main/Module_5/AIML_Lab_15_Linear_Regression%2C_MSE_and_Polynomial_Regression.ipynb#scrollTo=wsNG5Tx3QL95">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
 
 
 
